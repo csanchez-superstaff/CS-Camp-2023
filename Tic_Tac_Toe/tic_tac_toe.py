@@ -2,12 +2,15 @@
 
 # function name: print_board
 # parameters: board
+# description: prints current board
 
 # function name: winner
 # parameters: board, player
+# description: prints winner message
 
-# function name: win_conditions
+# function name: win_combination
 # parameters: board
+# description: checks all winning combinations, returns True if a combination is met, else returns False
 
 # END YOUR CODE HERE
 
